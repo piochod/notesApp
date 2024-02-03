@@ -1,6 +1,6 @@
 # Notes App
 
-###How to run
+### How to run
 ```bash
 cd backend
 venv\scripts\activate
